@@ -1,19 +1,19 @@
-#Pi-In-The-Sky planning
+# Pi-In-The-Sky planning
 
-##Problem/Goal
+## Problem/Goal
 
-##Resources and Constraints
+## Resources and Constraints
 
-##Brainstorm
+## Brainstorm
 
-##Solution
+## Solution
 
-##Initial Design
+## Initial Design
 
-##Prototype
+## Prototype
 
-##Test Design
+## Test Design
 
-##Refine Design
+## Refine Design
 
-##Finished Product
+## Finished Product
