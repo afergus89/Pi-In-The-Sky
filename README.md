@@ -15,6 +15,7 @@
 ## Brainstorm
 
 [Picture](afergus89/Pi-In-The-Sky/brain.jpg)
+[brain.jpg]
 
 ## Solution
 
