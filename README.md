@@ -14,12 +14,12 @@
 
 ## Brainstorm
 
-[Picture](afergus89/Pi-In-The-Sky/brain.jpg)
-[brain.jpg]
+![Picture](brain.jpg)
+
 
 ## Solution
 
-[Picture](afergus89/Pi-In-The-Sky/Pi in the sky.jpg)
+![Picture](Pi in the sky.jpg)
 
 ## Initial Design
 
